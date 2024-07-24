@@ -1,0 +1,3 @@
+修正したファイル・フォルダを指定するコマンド　：　git add .
+指定したファイル・フォルダにコメントを書く　：　git commit -m “コメント”
+ Gitに反映するコマンド　：　git push origin main
